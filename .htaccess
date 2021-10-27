@@ -1,2 +1,5 @@
 #Error Documents
 ErrorDocument 404 /404.shtml
+
+#Alternate default index page
+DirectoryIndex index.shtml
