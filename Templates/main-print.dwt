@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../main.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td><img src="../images/printitl.gif" alt="Gregg Shorthand" width="760" height="53" /></td>
+  </tr>
+  <tr> 
+    <td><!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable --></td>
+  </tr>
+  <tr> 
+    <td><div align="center" class="text">&copy; 
+        <!--#config timefmt="%Y" -->
+        <!--#echo var="DATE_LOCAL" -->
+        Andrew Owen. All Rights Reserved.</div></td>
+  </tr>
+</table>
+</body>
+</html>

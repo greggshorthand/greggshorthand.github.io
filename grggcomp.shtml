@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/main.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Gregg Shorthand</title>
+<!-- InstanceEndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link href="main.css" rel="stylesheet" type="text/css" />
+<link href="gregg.ico" rel="shortcut icon" />
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="948" border="0" cellpadding="0" cellspacing="0" class="text">
+  <tr> 
+    <td colspan="2" bgcolor="#CCCCCC" style="height: 53px; background-image: url(images/title3.gif); background-position: bottom right; background-repeat: no-repeat"><p>&nbsp;</p></td>
+    <td width="182" bgcolor="#CCCCCC" style="background-image: url(images/gpco2.gif); background-position: top center; background-repeat: no-repeat"><div> 
+        <div align="center"></div>
+      </div></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="#CC3333" style="height: 10px; background-image: url(images/title2.gif); background-position: top right; background-repeat: no-repeat"> 
+      <div class="text" style="color: #FFFFFF">&nbsp;A Web Site dedicated to the 
+        perpetuation of Gregg&#8217;s Light-Line Phonography</div></td>
+    <td width="182" bgcolor="#CC3333"><div align="center" style="color: #FFFFFF"> 
+        - Anniversary Manual -</div></td>
+  </tr>
+  <tr> 
+    <td width="182" valign="top" bgcolor="#CCCCCC" class="unnamed1"><table width="186" border="0" cellpadding="2" cellspacing="2" class="text">
+        <tr> 
+          <td width="178"> <!--#include file="nav.html" --> </td>
+        </tr>
+      </table></td>
+    <!-- InstanceBeginEditable name="EditRegion3" -->
+    <td width="585" valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="2" cellspacing="2">
+        <tr> 
+          <td width="79%" colspan="2" class="text"><p align="center"><strong>Common 
+              Computer Terms</strong></p>
+            <p align="center"><em>by Andrew Owen</em></p>
+            <table width="80%" border="0" align="center" cellpadding="0" cellspacing="0" class="text">
+              <tr> 
+                <td height="80">@</td>
+                <td><div align="center"><img src="images/bf0023-t.gif" alt="@" width="24" height="18" /></div></td>
+              </tr>
+              <tr> 
+                <td height="80">Apple</td>
+                <td><div align="center"><img src="images/w-apl.gif" alt="Apple" width="67" height="39" /></div></td>
+              </tr>
+              <tr> 
+                <td height="80">bandwidth</td>
+                <td><div align="center"><img src="images/w-bandth.gif" alt="bandwidth" width="46" height="39" /></div></td>
+              </tr>
+              <tr> 
+                <td height="80">broadband</td>
+                <td><div align="center"><img src="images/w-brodband.gif" alt="broadband" width="62" height="47" /></div></td>
+              </tr>
+              <tr> 
+                <td height="80">browse</td>
+                <td><div align="center"><img src="images/w-braus.gif" alt="browse" width="35" height="42" /></div></td>
+              </tr>
+              <tr> 
+                <td height="80">browser</td>
+                <td><div align="center"><img src="images/w-brausr.gif" alt="browser" width="58" height="59" /></div></td>
+              </tr>
+              <tr> 
+                <td height="80">chat</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">click</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">.com</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">cyberspace</td>
+                <td><div align="center"><img src="images/w-sibrspas.gif" alt="cyberspace" width="27" height="78" /></div></td>
+              </tr>
+              <tr> 
+                <td height="80">data</td>
+                <td><div align="center"><img src="images/taqui043.gif" alt="data" width="74" height="49" /></div></td>
+              </tr>
+              <tr> 
+                <td height="80">directory</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td width="51%" height="80">domain name</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">download</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td width="51%" height="80">E-mail</td>
+                <td width="49%"><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">Firefox</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">FTP</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">GB</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">Google</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">hard drive</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">HTML</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">HTTP</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">http://www.</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">I.E.</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80"><p>Internet</p></td>
+                <td><div align="center"><img src="images/w-n-net.gif" alt="Internet" width="40" height="30" /></div></td>
+              </tr>
+              <tr> 
+                <td height="80">Jumpdrive</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">kB</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">leech</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">link</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">Linux</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">MacIntosh</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">MB</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">modem</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">mouse</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">Mozilla</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">pop-up</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">scanner</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">screen</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">server</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">SHTML</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">TB</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">Unix</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">upload</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">username</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">web page</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">web site</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">Windows</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">WWW</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">XHTML</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">XML</td>
+                <td><div align="center"></div></td>
+              </tr>
+              <tr> 
+                <td height="80">Yahoo</td>
+                <td><div align="center"></div></td>
+              </tr>
+            </table>
+            <p>&nbsp;</p></td>
+        </tr>
+      </table></td>
+    <!-- InstanceEndEditable -->
+    <td width="182" valign="top" bgcolor="#CCCCCC" style="background-image: url(images/gpco3.gif); background-position: top center; background-repeat: no-repeat"><div> 
+        <div align="center"> 
+          <table width="100%" border="0" cellpadding="2" cellspacing="0" class="text">
+            <tr> 
+              <td valign="top">
+                  <!--#include file="nav2.html" -->
+                </td>
+            </tr>
+          </table><script type="text/javascript"><!--
+google_ad_client = "pub-7907577578319522";
+/* 120x240, created 7/7/10 */
+google_ad_slot = "9642202343";
+google_ad_width = 120;
+google_ad_height = 240;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+        </div>
+      </div></td>
+  </tr>
+  <tr bgcolor="#CC3333"> 
+    <td height="6" colspan="3" valign="top"><div align="center" style="color: #FFFFFF">Design 
+        Copyright &copy; 
+        <!--#config timefmt="%Y" -->
+        <!--#echo var="DATE_LOCAL" -->
+        Andrew Owen. All Rights Reserved.</div></td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

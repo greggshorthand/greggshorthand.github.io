@@ -1,0 +1,60 @@
+.text {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: normal;
+
+}
+td.j {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: normal;
+	text-align: justify;	
+}
+p.j {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: normal;
+	text-align: justify;	
+}
+.unnamed1 {
+	background-image: url(images/navbg.gif);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+.voweltable {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	border: thin solid #000000;
+}
+.commontable {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	border: none;
+	width: 519px;
+    margin-left: auto;
+    margin-right: auto;
+	text-align: left;
+}
+.center {
+	text-align: center;
+}
+.romanlist {
+	list-style-position: outside;
+	list-style-type: upper-roman;
+}
+.capstext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	font-variant: small-caps;
+}
+.contents1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	height: auto;
+	width: auto;
+	margin: 0px;
+
+
+}

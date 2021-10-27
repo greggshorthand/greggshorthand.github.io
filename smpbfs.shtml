@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/main.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Chart of Simplified Brief Forms - Gregg Shorthand</title>
+<!-- InstanceEndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link href="main.css" rel="stylesheet" type="text/css" />
+<link href="gregg.ico" rel="shortcut icon" />
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="948" border="0" cellpadding="0" cellspacing="0" class="text">
+  <tr> 
+    <td colspan="2" bgcolor="#CCCCCC" style="height: 53px; background-image: url(images/title3.gif); background-position: bottom right; background-repeat: no-repeat"><p>&nbsp;</p></td>
+    <td width="182" bgcolor="#CCCCCC" style="background-image: url(images/gpco2.gif); background-position: top center; background-repeat: no-repeat"><div> 
+        <div align="center"></div>
+      </div></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="#CC3333" style="height: 10px; background-image: url(images/title2.gif); background-position: top right; background-repeat: no-repeat"> 
+      <div class="text" style="color: #FFFFFF">&nbsp;A Web Site dedicated to the 
+        perpetuation of Gregg&#8217;s Light-Line Phonography</div></td>
+    <td width="182" bgcolor="#CC3333"><div align="center" style="color: #FFFFFF"> 
+        - Anniversary Manual -</div></td>
+  </tr>
+  <tr> 
+    <td width="182" valign="top" bgcolor="#CCCCCC" class="unnamed1"><table width="186" border="0" cellpadding="2" cellspacing="2" class="text">
+        <tr> 
+          <td width="178"> <!--#include file="nav.html" --> </td>
+        </tr>
+      </table></td>
+    <!-- InstanceBeginEditable name="EditRegion3" -->
+    <td width="585" valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="2" cellspacing="2">
+        <tr> 
+          <td width="79%" colspan="2" class="text"><p align="center"><strong>Chart 
+              of Gregg Shorthand Simplified Brief Forms</strong></p>
+            <table width="100%" border="1" cellpadding="2" cellspacing="0" class="text">
+              <tr bgcolor="#CC3333"> 
+                <td width="33%"><div align="center" style="color: #FFFFFF"><strong>Word</strong></div></td>
+                <td width="33%"><div align="center" style="color: #FFFFFF"><strong>Brief 
+                    Form (Text)</strong></div></td>
+                <td width="33%"><div align="center"><strong><font color="#FFFFFF">Brief 
+                    Form (Image)</font></strong></div></td>
+              </tr>
+              <tr> 
+                <td height="64">a, an</td>
+                <td>[dot]</td>
+                <td><div align="center"><img src="images/bf0001.gif" alt="dot" width="17" height="35" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">about</td>
+                <td>a b</td>
+                <td><div align="center"><img src="images/bf0002.gif" alt="ab" width="47" height="50" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">acknowledge</td>
+                <td>a k</td>
+                <td><div align="center"><img src="images/bf0265-ak.gif" alt="ak" width="43" height="23" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">advantage</td>
+                <td>a v</td>
+                <td><div align="center"><img src="images/bf0232-av.gif" alt="av" width="42" height="48" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">advertise</td>
+                <td>a v t</td>
+                <td><div align="center"><img src="images/bf0301-avt.gif" alt="avt" width="38" height="47" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">after</td>
+                <td>a f t</td>
+                <td><div align="center"><img src="images/bf0003-aft.gif" alt="aft" width="39" height="40" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">agent</td>
+                <td>a j</td>
+                <td><div align="center"><img src="images/bf0283-aj.gif" alt="aj" width="31" height="50" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">all</td>
+                <td>o (turned sideways)</td>
+                <td><div align="center"><img src="images/bf0051-o.gif" alt="o" width="19" height="17" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">allow</td>
+                <td>a l</td>
+                <td><div align="center"><img src="images/bf0266-al.gif" alt="al" width="67" height="26" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">always</td>
+                <td>o l s</td>
+                <td><div align="center"><img src="images/bf0070-ols.gif" alt="ols" width="64" height="20" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">am, more</td>
+                <td>m</td>
+                <td><div align="center"><img src="images/bf0021-m.gif" alt="m" width="66" height="21" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">among</td>
+                <td>m ng</td>
+                <td><div align="center"><img src="images/bf0194-mng.gif" alt="mng" width="75" height="28" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">and, end</td>
+                <td>nd</td>
+                <td><div align="center"><img src="images/bf0034-nd.gif" alt="nd" width="42" height="36" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">any</td>
+                <td>n e</td>
+                <td><div align="center"><img src="images/bf0052-ne.gif" alt="ne" width="30" height="13" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">are, our, hour</td>
+                <td>r</td>
+                <td><div align="center"><img src="images/bf0022-r.gif" alt="r" width="34" height="21" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">at, it</td>
+                <td>t</td>
+                <td><div align="center"><img src="images/bf0023-t.gif" alt="t" width="24" height="18" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">automobile</td>
+                <td>o tem b</td>
+                <td><div align="center"><img src="images/bf0395-otmb.gif" alt="otmb" width="64" height="50" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">be, by</td>
+                <td>b</td>
+                <td><div align="center"><img src="images/bf0035-b.gif" alt="b" width="42" height="48" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">been</td>
+                <td>b n</td>
+                <td><div align="center"><img src="images/bf0004-bn.gif" alt="bn" width="36" height="40" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">belief, believe</td>
+                <td>b e</td>
+                <td><div align="center"><img src="images/bf0104-be.gif" alt="be" width="26" height="37" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">between</td>
+                <td>b ten</td>
+                <td><div align="center"><img src="images/bf0089-btn.gif" alt="btn" width="38" height="38" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">big</td>
+                <td>b g</td>
+                <td><div align="center"><img src="images/bf0088-bg.gif" alt="bg" width="56" height="38" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">bill</td>
+                <td>b l</td>
+                <td><div align="center"><img src="images/bf0196-bl.gif" alt="bl" width="51" height="43" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">body</td>
+                <td>b o</td>
+                <td><div align="center"><img src="images/bf0177-bo.gif" alt="bo" width="37" height="41" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">business</td>
+                <td>b s</td>
+                <td><div align="center"><img src="images/bf0072-bs.gif" alt="bs" width="37" height="46" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">but</td>
+                <td>b t</td>
+                <td><div align="center"><img src="images/bf0396-bt.gif" alt="bt" width="40" height="53" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">can</td>
+                <td>k</td>
+                <td><div align="center"><img src="images/bf0024-k.gif" alt="k" width="38" height="18" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">character</td>
+                <td>k a k</td>
+                <td><div align="center"><img src="images/bf0198-kak.gif" alt="kak" width="64" height="28" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">circle</td>
+                <td>s e k l</td>
+                <td><div align="center"><img src="images/bf0397-sekl.gif" alt="sekl" width="75" height="19" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">company, keep</td>
+                <td>k p</td>
+                <td><div align="center"><img src="images/bf0127-kp.gif" alt="kp" width="36" height="33" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">conclude</td>
+                <td>k k</td>
+                <td><div align="center"><img src="images/bf0360-kk.gif" alt="kk" width="53" height="16" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">conclusion</td>
+                <td>k k sh</td>
+                <td><div align="center"><img src="images/bf0398-kksh.gif" alt="kksh" width="55" height="20" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">confidence, -dent</td>
+                <td>k f</td>
+                <td><div align="center"><img src="images/bf0250-kf.gif" alt="kf" width="32" height="34" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">consider, -ation</td>
+                <td>k s</td>
+                <td><div align="center"><img src="images/bf0234-ks.gif" alt="ks" width="31" height="24" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">correct</td>
+                <td>k r</td>
+                <td><div align="center"><img src="images/bf0197-kr.gif" alt="kr" width="46" height="15" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">correspond, -ence</td>
+                <td>k r e s</td>
+                <td><div align="center"><img src="images/bf0251-kres.gif" alt="kres" width="47" height="18" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">could</td>
+                <td>k d</td>
+                <td><div align="center"><img src="images/bf0055-kd.gif" alt="kd" width="67" height="38" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">cover</td>
+                <td>k v</td>
+                <td><div align="center"><img src="images/bf0252-kv.gif" alt="kv" width="39" height="47" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">date, did</td>
+                <td>dt</td>
+                <td><div align="center"><img src="images/bf0056-dt.gif" alt="dt" width="69" height="46" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">Dear Sir, desire</td>
+                <td>d s</td>
+                <td><div align="center"><img src="images/bf0036-ds.gif" alt="ds" width="48" height="40" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">deliver</td>
+                <td>d l</td>
+                <td><div align="center"><img src="images/bf0289-dl.gif" alt="dl" width="81" height="37" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">difficult</td>
+                <td>df k</td>
+                <td><div align="center"><img src="images/bf0304-dfk.gif" alt="dfk" width="59" height="36" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">direct</td>
+                <td>d r k</td>
+                <td><div align="center"><img src="images/bf0253-drk.gif" alt="drk" width="67" height="39" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">doctor, during</td>
+                <td>d r</td>
+                <td><div align="center"><img src="images/bf0107-dr.gif" alt="dr" width="56" height="33" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">else</td>
+                <td>l s</td>
+                <td><div align="center"><img src="images/bf0202-ls.gif" alt="ls" width="71" height="21" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">enable</td>
+                <td>e n b</td>
+                <td><div align="center"><img src="images/bf0270-enb.gif" alt="enb" width="31" height="49" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">enclose</td>
+                <td>n k</td>
+                <td><div align="center"><img src="images/bf0236-nk.gif" alt="nk" width="49" height="19" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">enough</td>
+                <td>n u f</td>
+                <td><div align="center"><img src="images/bf0162-nuf.gif" alt="nuf" width="31" height="31" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">envelope, nevertheless</td>
+                <td>n v l</td>
+                <td><div align="center"><img src="images/bf0306-nvl.gif" alt="nvl" width="57" height="47" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">etc.</td>
+                <td>e t s</td>
+                <td><div align="center"><img src="images/bf0399-ets.gif" alt="ets" width="31" height="32" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">ever</td>
+                <td>e v</td>
+                <td><div align="center"><img src="images/bf0007-ev.gif" alt="ev" width="41" height="43" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">every</td>
+                <td>e v e</td>
+                <td><div align="center"><img src="images/bf0008-eve.gif" alt="eve" width="43" height="46" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">experience</td>
+                <td>e s p</td>
+                <td><div align="center"><img src="images/bf0163-esp.gif" alt="esp" width="29" height="39" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">for</td>
+                <td>f</td>
+                <td><div align="center"><img src="images/bf0009-f.gif" alt="f" width="28" height="31" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">from</td>
+                <td>f m</td>
+                <td><div align="center"><img src="images/bf0010-fm.gif" alt="fm" width="70" height="35" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">future</td>
+                <td>f t r</td>
+                <td><div align="center"><img src="images/bf0400-ftr.gif" alt="ftr" width="50" height="24" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">general</td>
+                <td>j e n</td>
+                <td><div align="center"><img src="images/bf0108-jen.gif" alt="jen" width="38" height="39" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">glad</td>
+                <td>g l</td>
+                <td><div align="center"><img src="images/bf0109-gl.gif" alt="gl" width="88" height="19" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">go, good</td>
+                <td>g</td>
+                <td><div align="center"><img src="images/bf0027-g.gif" alt="g" width="68" height="18" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">gone</td>
+                <td>g n</td>
+                <td><div align="center"><img src="images/bf0183-gn.gif" alt="gn" width="65" height="20" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">got</td>
+                <td>g t</td>
+                <td><div align="center"><img src="images/bf0092-gt.gif" alt="gt" width="65" height="23" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">govern</td>
+                <td>g v</td>
+                <td><div align="center"><img src="images/bf0166-gv.gif" alt="gv" width="58" height="49" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">great</td>
+                <td>g r</td>
+                <td><div align="center"><img src="images/bf0037-gr.gif" alt="gr" width="86" height="27" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">have</td>
+                <td>v</td>
+                <td><div align="center"><img src="images/bf0012-v.gif" alt="v" width="46" height="48" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">he</td>
+                <td>e</td>
+                <td><div align="center"><img src="images/bf0029-e.gif" alt="e" width="21" height="18" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">his, is</td>
+                <td>s</td>
+                <td><div align="center"><img src="images/bf0038-s.gif" alt="s" width="18" height="19" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">house</td>
+                <td>h u s</td>
+                <td><div align="center"><img src="images/bf0184-hus.gif" alt="hus" width="22" height="27" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">how, out</td>
+                <td>a u</td>
+                <td><div align="center"><img src="images/bf0215-au.gif" alt="au" width="25" height="27" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">I</td>
+                <td>a</td>
+                <td><div align="center"><img src="images/bf0026-a.gif" alt="a" width="29" height="24" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">idea</td>
+                <td>a d e</td>
+                <td><div align="center"><img src="images/bf0401-ade.gif" alt="ade" width="55" height="44" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">immediate</td>
+                <td>e m e</td>
+                <td><div align="center"><img src="images/bf0149-eme.gif" alt="ime" width="66" height="19" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">important, -tance</td>
+                <td>m p</td>
+                <td><div align="center"><img src="images/bf0130-mp.gif" alt="mp" width="50" height="23" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">in, not</td>
+                <td>n</td>
+                <td><div align="center"><img src="images/bf0028-n.gif" alt="n" width="28" height="15" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">individual</td>
+                <td>nd v</td>
+                <td><div align="center"><img src="images/bf0272-ndv.gif" alt="ndv" width="48" height="44" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">instance, instant</td>
+                <td>n s</td>
+                <td><div align="center"><img src="images/bf0292-ns.gif" alt="ns" width="29" height="19" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">let, letter</td>
+                <td>l e</td>
+                <td><div align="center"><img src="images/bf0093-le.gif" alt="le" width="55" height="15" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">like</td>
+                <td>l a</td>
+                <td><div align="center"><img src="images/bf0058-la.gif" alt="la" width="68" height="26" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">likewise</td>
+                <td>l ia s</td>
+                <td><div align="center"><img src="images/bf0402-lias.gif" alt="lias" width="65" height="31" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">long</td>
+                <td>l ng</td>
+                <td><div align="center"><img src="images/bf0205-lng.gif" alt="lng" width="80" height="24" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">market, Mr.</td>
+                <td>m r</td>
+                <td><div align="center"><img src="images/bf0039-mr.gif" alt="mr" width="80" height="20" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">matter</td>
+                <td>m a t </td>
+                <td><div align="center"><img src="images/bf0075-mat.gif" alt="mat" width="53" height="25" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">merchandise</td>
+                <td>m e ch d i s</td>
+                <td><div align="center"><img src="images/bf0311-mechdis.gif" alt="mechdis" width="73" height="43" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">merchant</td>
+                <td>m e ch t</td>
+                <td><div align="center"><img src="images/bf0403-mecht.gif" alt="mecht" width="46" height="27" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">morning</td>
+                <td>mn [dot]</td>
+                <td><div align="center"><img src="images/bf0094-mning.gif" alt="mning" width="77" height="15" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">Mrs.</td>
+                <td>m r s</td>
+                <td><div align="center"><img src="images/bf0404-mrs.gif" alt="mrs" width="76" height="20" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">must</td>
+                <td>m s</td>
+                <td><div align="center"><img src="images/bf0076-ms.gif" alt="ms" width="52" height="14" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">necessary</td>
+                <td>n e ss</td>
+                <td><div align="center"><img src="images/bf0132-ness.gif" alt="ness" width="28" height="20" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">never</td>
+                <td>n v</td>
+                <td><div align="center"><img src="images/bf0014-nv.gif" alt="nv" width="48" height="41" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">newspaper</td>
+                <td>n s p</td>
+                <td><div align="center"><img src="images/bf0309-nsp.gif" alt="nsp" width="32" height="34" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">next</td>
+                <td>n e s</td>
+                <td><div align="center"><img src="images/bf0096-nes.gif" alt="nes" width="37" height="18" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">number</td>
+                <td>n u m</td>
+                <td><div align="center"><img src="images/bf0168-num.gif" alt="num" width="61" height="19" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">object</td>
+                <td>o b</td>
+                <td><div align="center"><img src="images/bf0238-ob.gif" alt="ob" width="32" height="44" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">of</td>
+                <td>o</td>
+                <td><div align="center"><img src="images/bf0040-o.gif" alt="o" width="23" height="18" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">office</td>
+                <td>o [right s]</td>
+                <td><div align="center"><img src="images/bf0151-os.gif" alt="os" width="20" height="19" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">opportunity</td>
+                <td>o p r</td>
+                <td><div align="center"><img src="images/bf0239-opr.gif" alt="opr" width="28" height="28" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">order</td>
+                <td>o d</td>
+                <td><div align="center"><img src="images/bf0110-od.gif" alt="od" width="43" height="33" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">ordinary</td>
+                <td>o den</td>
+                <td><div align="center"><img src="images/bf0405-odn.gif" alt="odn" width="40" height="24" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">organize</td>
+                <td>o g</td>
+                <td><div align="center"><img src="images/bf0256-og.gif" alt="og" width="63" height="18" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">over</td>
+                <td><p>o (over the line)</p></td>
+                <td><div align="center"><img src="images/bf0015-o.gif" alt="o" width="47" height="32" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">part</td>
+                <td>p t</td>
+                <td><div align="center"><img src="images/bf0077-pt.gif" alt="pt" width="24" height="26" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">particular</td>
+                <td>p a t</td>
+                <td><div align="center"><img src="images/bf0186-pat.gif" alt="pat" width="40" height="38" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">please</td>
+                <td>p l</td>
+                <td><div align="center"><img src="images/bf0240-pl.gif" alt="pl" width="60" height="25" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">presence, present</td>
+                <td>p r</td>
+                <td><div align="center"><img src="images/bf0098-pr.gif" alt="pr" width="28" height="25" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">probable</td>
+                <td>p r b</td>
+                <td><div align="center"><img src="images/bf0259-prb.gif" alt="prb" width="31" height="60" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">progress</td>
+                <td>p r g</td>
+                <td><div align="center"><img src="images/bf0241-prg.gif" alt="prg" width="75" height="27" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">property</td>
+                <td>p r p t</td>
+                <td><div align="center"><img src="images/bf0406-prpt.gif" alt="prpt" width="28" height="39" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">prosecute</td>
+                <td>p r s k</td>
+                <td><div align="center"><img src="images/bf0407-prsk.gif" alt="prsk" width="43" height="28" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">public, publish</td>
+                <td>p b</td>
+                <td><div align="center"><img src="images/bf0078-pb.gif" alt="pb" width="36" height="56" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">purchase</td>
+                <td>p r ch</td>
+                <td><div align="center"><img src="images/bf0170-prch.gif" alt="prch" width="30" height="40" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">purpose</td>
+                <td>p r p</td>
+                <td><div align="center"><img src="images/bf0112-prp.gif" alt="prp" width="38" height="38" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">put</td>
+                <td>p</td>
+                <td><div align="center"><img src="images/bf0017-p.gif" alt="p" width="24" height="28" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">quantity</td>
+                <td>k t (intersected)</td>
+                <td><div align="center"><img src="images/bf0315-kt.gif" alt="kt" width="35" height="20" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">question</td>
+                <td>k sh</td>
+                <td><div align="center"><img src="images/bf0171-ksh.gif" alt="ksh" width="33" height="19" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">railroad</td>
+                <td>r r</td>
+                <td><div align="center"><img src="images/bf0408-rr.gif" alt="rr" width="61" height="18" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">recognise </td>
+                <td>r k n i s</td>
+                <td><div align="center"><img src="images/bf0409-rknis.gif" alt="rknis" width="77" height="27" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">refer, reference</td>
+                <td>r f</td>
+                <td><div align="center"><img src="images/bf0277-rf.gif" alt="rf" width="38" height="27" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">regard</td>
+                <td>r e</td>
+                <td><div align="center"><img src="images/bf0136-re.gif" alt="re" width="35" height="16" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">regular</td>
+                <td>r e g</td>
+                <td><div align="center"><img src="images/bf0260-reg.gif" alt="reg" width="80" height="20" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">remainder</td>
+                <td>r e mn r</td>
+                <td><div align="center"><img src="images/bf0410-remnr.gif" alt="remnr" width="109" height="20" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">remember</td>
+                <td>r e mn</td>
+                <td><div align="center"><img src="images/bf0172-remn.gif" alt="remn" width="85" height="16" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">remit</td>
+                <td>r e m</td>
+                <td><div align="center"><img src="images/bf0278-rem.gif" alt="rem" width="66" height="24" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">request</td>
+                <td>r k e s</td>
+                <td><div align="center"><img src="images/bf0411-rkes.gif" alt="rkes" width="56" height="28" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">return</td>
+                <td>r e t</td>
+                <td><div align="center"><img src="images/bf0207-ret.gif" alt="ret" width="44" height="23" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">right, write</td>
+                <td>r i</td>
+                <td><div align="center"><img src="images/bf0223-ri.gif" alt="ri" width="36" height="23" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">satisfy, -actory</td>
+                <td>s a t</td>
+                <td><div align="center"><img src="images/bf0261-sat.gif" alt="sat" width="36" height="31" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">send</td>
+                <td>s e n</td>
+                <td><div align="center"><img src="images/bf0154-sen.gif" alt="sen" width="35" height="19" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">several</td>
+                <td>s e v</td>
+                <td><div align="center"><img src="images/bf0114-sev.gif" alt="sev" width="42" height="49" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">shall, ship</td>
+                <td>sh</td>
+                <td><div align="center"><img src="images/bf0018-sh.gif" alt="sh" width="19" height="19" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">should</td>
+                <td>sh d</td>
+                <td><div align="center"><img src="images/bf0019-shd.gif" alt="shd" width="46" height="40" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">side</td>
+                <td>s i</td>
+                <td><div align="center"><img src="images/bf0224-si.gif" alt="si" width="26" height="26" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">situation</td>
+                <td>s e t sh</td>
+                <td><div align="center"><img src="images/bf0115-setsh.gif" alt="setsh" width="32" height="26" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">soon</td>
+                <td>s n</td>
+                <td><div align="center"><img src="images/bf0099-sn.gif" alt="sn" width="31" height="13" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">speak</td>
+                <td>s p</td>
+                <td><div align="center"><img src="images/bf0155-sp.gif" alt="sp" width="22" height="32" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">stand</td>
+                <td>s tn</td>
+                <td><div align="center"><img src="images/bf0279-stn.gif" alt="stn" width="46" height="32" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">state</td>
+                <td>s t</td>
+                <td><div align="center"><img src="images/bf0117-st.gif" alt="st" width="31" height="25" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">street</td>
+                <td>s t r</td>
+                <td><div align="center"><img src="images/bf0208-str.gif" alt="str" width="46" height="24" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">subject</td>
+                <td>s j</td>
+                <td><div align="center"><img src="images/bf0137-sj.gif" alt="sj" width="25" height="40" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">success</td>
+                <td>s u k</td>
+                <td><div align="center"><img src="images/bf0264-suk.gif" alt="suk" width="36" height="21" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">such</td>
+                <td>s ch</td>
+                <td><div align="center"><img src="images/bf0081-sch.gif" alt="sch" width="21" height="33" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">suggest, -tion</td>
+                <td>s u j</td>
+                <td><div align="center"><img src="images/bf0281-suj.gif" alt="suj" width="35" height="46" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">than, then</td>
+                <td>[over th] n</td>
+                <td><div align="center"><img src="images/bf0041-thn.gif" alt="thn" width="38" height="21" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">thank</td>
+                <td>[over th] [raised dot]</td>
+                <td><div align="center"><img src="images/bf0209-think.gif" alt="thank" width="30" height="21" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">that</td>
+                <td>[over th] a</td>
+                <td><div align="center"><img src="images/bf0042-tha.gif" alt="tha" width="36" height="26" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">the</td>
+                <td>[over th]</td>
+                <td><div align="center"><img src="images/bf0030-th.gif" alt="th" width="28" height="18" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">their, there</td>
+                <td>[under th]</td>
+                <td><div align="center"><img src="images/bf0031-th.gif" alt="th" width="25" height="19" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">them</td>
+                <td>[over th] m</td>
+                <td><div align="center"><img src="images/bf0043-thm.gif" alt="thm" width="64" height="28" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">they</td>
+                <td>[over th] e</td>
+                <td><div align="center"><img src="images/bf0044-the.gif" alt="the" width="24" height="21" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">thing, think</td>
+                <td>[over th] [dot]</td>
+                <td><div align="center"><img src="images/bf0082-thng.gif" alt="thng" width="20" height="18" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">this</td>
+                <td><p>[over th] s (one stroke)</p>
+                  </td>
+                <td><div align="center"><img src="images/bf0045-ths.gif" alt="ths" width="36" height="24" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">those</td>
+                <td>[over th] [left s]</td>
+                <td><div align="center"><img src="images/bf0062-ths.gif" alt="ths" width="25" height="23" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">throughout</td>
+                <td>[under th] r u t</td>
+                <td><div align="center"><img src="images/bf0244-thrut.gif" alt="thrut" width="58" height="27" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">time</td>
+                <td>tm</td>
+                <td><div align="center"><img src="images/bf0063-tm.gif" alt="tm" width="64" height="38" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">to, two, too</td>
+                <td>t u</td>
+                <td><div align="center"><img src="images/bf0046-tu.gif" alt="tu" width="31" height="24" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">unable</td>
+                <td>n b</td>
+                <td><div align="center"><img src="images/bf0282-nb.gif" alt="nb" width="30" height="49" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">under</td>
+                <td>u (over the line)</td>
+                <td><div align="center"><img src="images/bf0084-u.gif" alt="u" width="42" height="33" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">upon</td>
+                <td>p n</td>
+                <td><div align="center"><img src="images/bf0412-pn.gif" alt="pn" width="31" height="32" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">use</td>
+                <td>e u</td>
+                <td><div align="center"><img src="images/bf0226-eu.gif" alt="eu" width="20" height="20" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">usual, wish</td>
+                <td>u sh</td>
+                <td><div align="center"><img src="images/bf0175-ush.gif" alt="ush" width="18" height="25" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">value</td>
+                <td>v l</td>
+                <td><div align="center"><img src="images/bf0156-vl.gif" alt="vl" width="46" height="42" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">very</td>
+                <td>v e</td>
+                <td><div align="center"><img src="images/bf0020-ve.gif" alt="ve" width="47" height="47" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">want</td>
+                <td>o nd</td>
+                <td><div align="center"><img src="images/bf0120-ont.gif" alt="ont" width="39" height="29" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">was</td>
+                <td>o s</td>
+                <td><div align="center"><img src="images/bf0047-os.gif" alt="os" width="19" height="20" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">weak, week</td>
+                <td>e k</td>
+                <td><div align="center"><img src="images/bf0157-ek.gif" alt="ek" width="33" height="14" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">well, will</td>
+                <td>l</td>
+                <td><div align="center"><img src="images/bf0032-l.gif" alt="l" width="68" height="19" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">were, year</td>
+                <td>e r</td>
+                <td><div align="center"><img src="images/bf0065-er.gif" alt="er" width="42" height="19" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">what</td>
+                <td>o t</td>
+                <td><div align="center"><img src="images/bf0066-ot.gif" alt="ot" width="30" height="24" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">when</td>
+                <td>e n</td>
+                <td><div align="center"><img src="images/bf0067-en.gif" alt="en" width="34" height="17" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">where</td>
+                <td>a r</td>
+                <td><div align="center"><img src="images/bf0053-ar.gif" alt="ar" width="45" height="26" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">which</td>
+                <td>ch</td>
+                <td><div align="center"><img src="images/bf0006-ch.gif" alt="ch" width="18" height="29" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">why</td>
+                <td>i</td>
+                <td><div align="center"><img src="images/bf0228-i.gif" alt="i" width="26" height="23" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">with</td>
+                <td>e [over th]</td>
+                <td><div align="center"><img src="images/bf0048-eth.gif" alt="eth" width="26" height="22" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">won, one</td>
+                <td>u n</td>
+                <td><div align="center"><img src="images/bf0318-un.gif" alt="un" width="28" height="13" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">wonder</td>
+                <td>u u n</td>
+                <td><div align="center"><img src="images/bf0247-uun.gif" alt="uun" width="35" height="19" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">work</td>
+                <td>r k</td>
+                <td><div align="center"><img src="images/bf0085-rk.gif" alt="rk" width="50" height="16" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">world</td>
+                <td>u u</td>
+                <td><div align="center"><img src="images/bf0193-uu.gif" alt="uu" width="26" height="16" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">worth</td>
+                <td>u u [over th]</td>
+                <td><div align="center"><img src="images/bf0413-uuth.gif" alt="uuth" width="41" height="23" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">would</td>
+                <td>d</td>
+                <td><div align="center"><img src="images/bf0033-d.gif" alt="d" width="47" height="37" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">yesterday</td>
+                <td>e s t</td>
+                <td><div align="center"><img src="images/bf0139-est.gif" alt="est" width="27" height="19" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">yet</td>
+                <td>e t</td>
+                <td><div align="center"><img src="images/bf0414-et.gif" alt="et" width="37" height="31" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">you, your</td>
+                <td>u</td>
+                <td><div align="center"><img src="images/bf0050-u.gif" alt="u" width="18" height="15" /></div></td>
+              </tr>
+              <tr> 
+                <td height="64">Yours truly,</td>
+                <td>u t</td>
+                <td><div align="center"><img src="images/bf0415-ut.gif" alt="ut" width="31" height="26" /></div></td>
+              </tr>
+            </table>
+            <p align="left">&nbsp; &nbsp; &nbsp;To find a word quickly, use the 
+              Find function (CTRL-F) of your browser.</p>
+            </td>
+        </tr>
+      </table></td>
+    <!-- InstanceEndEditable -->
+    <td width="182" valign="top" bgcolor="#CCCCCC" style="background-image: url(images/gpco3.gif); background-position: top center; background-repeat: no-repeat"><div> 
+        <div align="center"> 
+          <table width="100%" border="0" cellpadding="2" cellspacing="0" class="text">
+            <tr> 
+              <td valign="top">
+                  <!--#include file="nav2.html" -->
+                </td>
+            </tr>
+          </table><script type="text/javascript"><!--
+google_ad_client = "pub-7907577578319522";
+/* 120x240, created 7/7/10 */
+google_ad_slot = "9642202343";
+google_ad_width = 120;
+google_ad_height = 240;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+        </div>
+      </div></td>
+  </tr>
+  <tr bgcolor="#CC3333"> 
+    <td height="6" colspan="3" valign="top"><div align="center" style="color: #FFFFFF">Design 
+        Copyright &copy; 
+        <!--#config timefmt="%Y" -->
+        <!--#echo var="DATE_LOCAL" -->
+        Andrew Owen. All Rights Reserved.</div></td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

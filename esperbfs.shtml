@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/main.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Esperanto Brief Forms (Vortaj Signoj) - Gregg Shorthand</title>
+<!-- InstanceEndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link href="main.css" rel="stylesheet" type="text/css" />
+<link href="gregg.ico" rel="shortcut icon" />
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="948" border="0" cellpadding="0" cellspacing="0" class="text">
+  <tr> 
+    <td colspan="2" bgcolor="#CCCCCC" style="height: 53px; background-image: url(images/title3.gif); background-position: bottom right; background-repeat: no-repeat"><p>&nbsp;</p></td>
+    <td width="182" bgcolor="#CCCCCC" style="background-image: url(images/gpco2.gif); background-position: top center; background-repeat: no-repeat"><div> 
+        <div align="center"></div>
+      </div></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="#CC3333" style="height: 10px; background-image: url(images/title2.gif); background-position: top right; background-repeat: no-repeat"> 
+      <div class="text" style="color: #FFFFFF">&nbsp;A Web Site dedicated to the 
+        perpetuation of Gregg&#8217;s Light-Line Phonography</div></td>
+    <td width="182" bgcolor="#CC3333"><div align="center" style="color: #FFFFFF"> 
+        - Anniversary Manual -</div></td>
+  </tr>
+  <tr> 
+    <td width="182" valign="top" bgcolor="#CCCCCC" class="unnamed1"><table width="186" border="0" cellpadding="2" cellspacing="2" class="text">
+        <tr> 
+          <td width="178"> <!--#include file="nav.html" --> </td>
+        </tr>
+      </table></td>
+    <!-- InstanceBeginEditable name="EditRegion3" -->
+    <td width="585" valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="2" cellspacing="2">
+        <tr> 
+          <td width="79%" colspan="2" class="text"><div align="center">
+              <p><strong>Chart of Esperanto Brief Forms</strong><br />
+                <em>Tabelo da Mallongaj Formoj</em></p>
+              <table width="100%" border="1" cellpadding="2" cellspacing="0" class="text">
+                <tr bgcolor="#CC3333"> 
+                  <td width="33%"><div align="center"><font color="#FFFFFF"><strong>Word/Vorto</strong></font></div></td>
+                  <td width="36%"><div align="center"><strong><font color="#FFFFFF">Brief 
+                      Form (text)/ Mallonga Formo (teksto)</font></strong></div></td>
+                  <td width="31%"><div align="center"><strong><font color="#FFFFFF">Brief 
+                      Form (image)/ Mallonga Formo (bildo)</font></strong></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">adreso</td>
+                  <td>a d r</td>
+                  <td><div align="center"><img src="images/bf0231-adr.gif" alt="adr" width="67" height="39" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">akceptas</td>
+                  <td>a k [left s]</td>
+                  <td><div align="center"><img src="images/bf0176-aks.gif" alt="aks" width="39" height="22" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">al</td>
+                  <td>a</td>
+                  <td><div align="center"><img src="images/bf0026-a.gif" alt="a" width="29" height="24" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">alta</td>
+                  <td>a t</td>
+                  <td><div align="center"><img src="images/bf0319-at.gif" alt="at" width="34" height="32" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">anka&#365;</td>
+                  <td>a nk</td>
+                  <td><div align="center"><img src="images/bf0320-ank.gif" alt="ank" width="49" height="13" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">ankora&#365;</td>
+                  <td>a nk o</td>
+                  <td><div align="center"><img src="images/bf0321-anko.gif" alt="anko" width="55" height="20" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">anstata&#365;</td>
+                  <td>a n [left s]</td>
+                  <td><div align="center"><img src="images/bf0195-ans.gif" alt="ans" width="41" height="24" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">anta&#365;</td>
+                  <td>a (over the line)</td>
+                  <td><div align="center"><img src="images/bf0322-a.gif" alt="a" width="34" height="42" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">apero, -as</td>
+                  <td>a p r</td>
+                  <td><div align="center"><img src="images/bf0285-apr.gif" alt="apr" width="39" height="37" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">apud</td>
+                  <td>p d</td>
+                  <td><div align="center"><img src="images/bf0323-pd.gif" alt="pd" width="55" height="41" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">a&#365;skultas</td>
+                  <td>[right s] k t</td>
+                  <td><div align="center"><img src="images/bf0323-skt.gif" alt="skt" width="47" height="22" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">balda&#365;</td>
+                  <td>b</td>
+                  <td><div align="center"><img src="images/bf0035-b.gif" alt="b" width="42" height="48" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">beda&#365;ras</td>
+                  <td>b d r</td>
+                  <td><div align="center"><img src="images/bf0324-bdr.gif" alt="bdr" width="53" height="40" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">bela</td>
+                  <td>b l</td>
+                  <td><div align="center"><img src="images/bf0196-bl.gif" alt="bl" width="51" height="43" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">bona</td>
+                  <td>b n</td>
+                  <td><div align="center"><img src="images/bf0004-bn.gif" alt="bn" width="36" height="40" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">certa</td>
+                  <td>[right s] e t</td>
+                  <td><div align="center"><img src="images/bf0324-set.gif" alt="set" width="37" height="34" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">&#265;e, &#265;i</td>
+                  <td>ch</td>
+                  <td><div align="center"><img src="images/bf0006-ch.gif" alt="ch" width="18" height="29" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">&#265;iam</td>
+                  <td>ch m</td>
+                  <td><div align="center"><img src="images/bf0325-chm.gif" alt="chm" width="56" height="31" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">&#265;irka&#365;</td>
+                  <td>ch [reversed e]</td>
+                  <td><div align="center"><img src="images/bf0326-che.gif" alt="che" width="28" height="38" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">&#265;iu</td>
+                  <td>ch u</td>
+                  <td><div align="center"><img src="images/bf0327-chu.gif" alt="chu" width="27" height="35" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">danko, -as</td>
+                  <td>nk</td>
+                  <td><div align="center"><img src="images/bf0328-nk.gif" alt="nk" width="42" height="20" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">dato</td>
+                  <td>dt</td>
+                  <td><div align="center"><img src="images/bf0056-dt.gif" alt="dt" width="69" height="46" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">de</td>
+                  <td>d</td>
+                  <td><div align="center"><img src="images/bf0033-d.gif" alt="d" width="47" height="37" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">decidas</td>
+                  <td>d [right s]</td>
+                  <td><div align="center"><img src="images/bf0329-ds.gif" alt="ds" width="43" height="31" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">dekstra</td>
+                  <td>d e [left s]</td>
+                  <td><div align="center"><img src="images/bf0330-des.gif" alt="des" width="50" height="43" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">devo, -as</td>
+                  <td>df</td>
+                  <td><div align="center"><img src="images/bf0290-df.gif" alt="df" width="45" height="36" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">deziras</td>
+                  <td>d [left s]</td>
+                  <td><div align="center"><img src="images/bf0036-ds.gif" alt="ds" width="48" height="40" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">diferenci</td>
+                  <td>df [right s] e</td>
+                  <td><div align="center"><img src="images/bf0331-dfse.gif" alt="dfse" width="50" height="50" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">diras</td>
+                  <td>d [reversed e]</td>
+                  <td><div align="center"><img src="images/bf0128-de.gif" alt="de" width="37" height="27" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">direkto</td>
+                  <td>d r k</td>
+                  <td><div align="center"><img src="images/bf0253-drk.gif" alt="drk" width="67" height="39" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">diversa</td>
+                  <td>df r</td>
+                  <td><div align="center"><img src="images/bf0332-dfr.gif" alt="dfr" width="46" height="31" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">doktoro, da&#365;ra</td>
+                  <td>d r</td>
+                  <td><div align="center"><img src="images/bf0107-dr.gif" alt="dr" width="56" height="33" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">dum</td>
+                  <td>dm</td>
+                  <td><div align="center"><img src="images/bf0063-tm.gif" alt="dm" width="64" height="38" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">ebla</td>
+                  <td>e b</td>
+                  <td><div align="center"><img src="images/bf0333-eb.gif" alt="eb" width="47" height="47" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">efektiva</td>
+                  <td>f k v</td>
+                  <td><div align="center"><img src="images/bf0334-fkv.gif" alt="fkv" width="49" height="59" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">efiko</td>
+                  <td>f k</td>
+                  <td><div align="center"><img src="images/bf0200-fk.gif" alt="fk" width="37" height="28" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">egala</td>
+                  <td>e g l</td>
+                  <td><div align="center"><img src="images/bf0335-egl.gif" alt="egl" width="101" height="23" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">ekzerco</td>
+                  <td>e [right s] r</td>
+                  <td><div align="center"><img src="images/bf0336-esr.gif" alt="esr" width="40" height="23" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">el</td>
+                  <td>e</td>
+                  <td><div align="center"><img src="images/bf0029-e.gif" alt="e" width="21" height="18" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">en, ne</td>
+                  <td>n</td>
+                  <td><div align="center"><img src="images/bf0028-n.gif" alt="n" width="28" height="15" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">Esperanto</td>
+                  <td>e [left s] p [capitalized]</td>
+                  <td><div align="center"><img src="images/bf0337-Esp.gif" alt="Esp" width="29" height="39" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">espero</td>
+                  <td>e [left s] p</td>
+                  <td><div align="center"><img src="images/bf0163-esp.gif" alt="esp" width="29" height="39" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">esprimas</td>
+                  <td>e [left s] p r</td>
+                  <td><div align="center"><img src="images/bf0146-espr.gif" alt="espr" width="27" height="31" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">estas</td>
+                  <td>[right s] </td>
+                  <td><div align="center"><img src="images/bf0038-s.gif" alt="s" width="18" height="19" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">estis</td>
+                  <td>e [right s]</td>
+                  <td><div align="center"><img src="images/bf0338-es.gif" alt="es" width="20" height="25" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">estos</td>
+                  <td>o [left s]</td>
+                  <td><div align="center"><img src="images/bf0047-os.gif" alt="os" width="19" height="20" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">estus</td>
+                  <td>us (one stroke)</td>
+                  <td><div align="center"><img src="images/bf0339-us.gif" alt="us" width="22" height="27" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">faras, for</td>
+                  <td>f</td>
+                  <td><div align="center"><img src="images/bf0009-f.gif" alt="f" width="28" height="31" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">familio</td>
+                  <td>f a m</td>
+                  <td><div align="center"><img src="images/bf0340-fam.gif" alt="fam" width="71" height="38" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">favora</td>
+                  <td>f a</td>
+                  <td><div align="center"><img src="images/bf0073-fa.gif" alt="fa" width="35" height="30" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">feli&#265;a</td>
+                  <td>f l ch</td>
+                  <td><div align="center"><img src="images/bf0341-flch.gif" alt="flch" width="45" height="42" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">fidela</td>
+                  <td>f d l</td>
+                  <td><div align="center"><img src="images/bf0342-fdl.gif" alt="fdl" width="82" height="25" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">firmo</td>
+                  <td>f e m</td>
+                  <td><div align="center"><img src="images/bf0343-fem.gif" alt="fem" width="61" height="35" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">formo</td>
+                  <td>f m</td>
+                  <td><div align="center"><img src="images/bf0010-fm.gif" alt="fm" width="70" height="35" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">forta</td>
+                  <td>f t</td>
+                  <td><div align="center"><img src="images/bf0148-ft.gif" alt="ft" width="29" height="29" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">fra&#365;lino</td>
+                  <td>f r e n</td>
+                  <td><div align="center"><img src="images/bf0344-fren.gif" alt="fren" width="44" height="32" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">granda</td>
+                  <td>g</td>
+                  <td><div align="center"><img src="images/bf0027-g.gif" alt="g" width="68" height="18" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">grava</td>
+                  <td>g r</td>
+                  <td><div align="center"><img src="images/bf0037-gr.gif" alt="gr" width="86" height="27" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">&#285;enerala</td>
+                  <td>j e n</td>
+                  <td><div align="center"><img src="images/bf0108-jen.gif" alt="jen" width="38" height="39" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">&#285;i</td>
+                  <td>j</td>
+                  <td><div align="center"><img src="images/bf0345-j.gif" alt="j" width="31" height="50" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">havas, vi</td>
+                  <td>v</td>
+                  <td><div align="center"><img src="images/bf0012-v.gif" alt="v" width="46" height="48" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">hiera&#365;</td>
+                  <td>h e r</td>
+                  <td><div align="center"><img src="images/bf0346-her.gif" alt="her" width="44" height="28" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">hodia&#365;</td>
+                  <td>h o d</td>
+                  <td><div align="center"><img src="images/bf0347-hod.gif" alt="hod" width="43" height="33" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">horo, sur</td>
+                  <td>r</td>
+                  <td><div align="center"><img src="images/bf0022-r.gif" alt="r" width="34" height="21" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">ili</td>
+                  <td>e l</td>
+                  <td><div align="center"><img src="images/bf0348-el.gif" alt="el" width="56" height="16" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">inda</td>
+                  <td>nd</td>
+                  <td><div align="center"><img src="images/bf0034-nd.gif" alt="nd" width="42" height="36" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">influo, -as</td>
+                  <td>n f</td>
+                  <td><div align="center"><img src="images/bf0291-nf.gif" alt="nf" width="34" height="29" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">inter</td>
+                  <td>n (above the line)</td>
+                  <td><div align="center"><img src="images/bf0349-n.gif" alt="inter" width="47" height="32" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">iom</td>
+                  <td>o m</td>
+                  <td><div align="center"><img src="images/bf0350-om.gif" alt="om" width="71" height="19" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">jes</td>
+                  <td>[e loop]</td>
+                  <td><div align="center"><img src="images/bf0210-e.gif" alt="e" width="25" height="31" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">justa</td>
+                  <td>e us</td>
+                  <td><div align="center"><img src="images/bf0351-eus.gif" alt="eus" width="35" height="29" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">kaj</td>
+                  <td>[dot]</td>
+                  <td><div align="center"><img src="images/bf0001.gif" alt="dot" width="17" height="35" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">kara</td>
+                  <td>k a</td>
+                  <td><div align="center"><img src="images/bf0158-ka.gif" alt="ka" width="38" height="20" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">ka&#365;zo</td>
+                  <td>k [left s]</td>
+                  <td><div align="center"><img src="images/bf0071-ks.gif" alt="ks" width="32" height="16" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">ke</td>
+                  <td>k</td>
+                  <td><div align="center"><img src="images/bf0024-k.gif" alt="k" width="38" height="18" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">kelke</td>
+                  <td>k e k</td>
+                  <td><div align="center"><img src="images/bf0352-kek.gif" alt="kek" width="62" height="22" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">kiam</td>
+                  <td>k m</td>
+                  <td><div align="center"><img src="images/bf0054-km.gif" alt="km" width="72" height="18" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">kiel</td>
+                  <td>k l</td>
+                  <td><div align="center"><img src="images/bf0353-kl.gif" alt="kl" width="64" height="11" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">kio</td>
+                  <td>k o</td>
+                  <td><div align="center"><img src="images/bf0105-ko.gif" alt="ko" width="35" height="15" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">kiom</td>
+                  <td>k o m</td>
+                  <td><div align="center"><img src="images/bf0354-kom.gif" alt="kom" width="77" height="25" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">kiu</td>
+                  <td>u</td>
+                  <td><div align="center"><img src="images/bf0050-u.gif" alt="u" width="18" height="15" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">klara</td>
+                  <td>k l a</td>
+                  <td><div align="center"><img src="images/bf0355-kla.gif" alt="kla" width="86" height="27" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">kolekto</td>
+                  <td>k o l</td>
+                  <td><div align="center"><img src="images/bf0126-kol.gif" alt="kol" width="76" height="19" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">komerco</td>
+                  <td>k m [reversed e]</td>
+                  <td><div align="center"><img src="images/bf0357-kme.gif" alt="kme" width="74" height="22" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">konas, kun</td>
+                  <td>k n</td>
+                  <td><div align="center"><img src="images/bf0356-kn.gif" alt="kn" width="54" height="21" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">kongreso</td>
+                  <td>k g</td>
+                  <td><div align="center"><img src="images/bf0358-kg.gif" alt="kg" width="86" height="26" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">konkludo</td>
+                  <td>k k</td>
+                  <td><div align="center"><img src="images/bf0360-kk.gif" alt="kk" width="53" height="16" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">konsideras</td>
+                  <td>k [right s]</td>
+                  <td><div align="center"><img src="images/bf0234-ks.gif" alt="ks" width="31" height="24" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">kontra&#365;</td>
+                  <td>k (over the line)</td>
+                  <td><div align="center"><img src="images/bf0359-k.gif" alt="k" width="47" height="32" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">kopio</td>
+                  <td>k p e</td>
+                  <td><div align="center"><img src="images/bf0268-kpe.gif" alt="kpe" width="37" height="35" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">korekta</td>
+                  <td>k r</td>
+                  <td><div align="center"><img src="images/bf0197-kr.gif" alt="kr" width="46" height="15" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">korespondas</td>
+                  <td>k r e s</td>
+                  <td><div align="center"><img src="images/bf0251-kres.gif" alt="kres" width="47" height="18" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">kurso</td>
+                  <td>k r s</td>
+                  <td><div align="center"><img src="images/bf0106-krs.gif" alt="krs" width="53" height="15" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">kvankam</td>
+                  <td>k v a nk</td>
+                  <td><div align="center"><img src="images/bf0361-kvank.gif" alt="kvank" width="57" height="53" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">kvanto</td>
+                  <td>k [intersected t]</td>
+                  <td><div align="center"><img src="images/bf0315-kt.gif" alt="kt" width="35" height="20" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">kvar</td>
+                  <td>k v</td>
+                  <td><div align="center"><img src="images/bf0252-kv.gif" alt="kv" width="39" height="47" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">la</td>
+                  <td>l</td>
+                  <td><div align="center"><img src="images/bf0032-l.gif" alt="l" width="68" height="19" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">lernas</td>
+                  <td>l e n</td>
+                  <td><div align="center"><img src="images/bf0362-len.gif" alt="len" width="82" height="23" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">letero, litero</td>
+                  <td>l e</td>
+                  <td><div align="center"><img src="images/bf0093-le.gif" alt="le" width="55" height="15" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">lingvo</td>
+                  <td>l e ng</td>
+                  <td><div align="center"><img src="images/bf0363-leng.gif" alt="leng" width="83" height="19" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">listo</td>
+                  <td>l [left s]</td>
+                  <td><div align="center"><img src="images/bf0202-ls.gif" alt="ls" width="71" height="21" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">longa</td>
+                  <td>l ng</td>
+                  <td><div align="center"><img src="images/bf0205-lng.gif" alt="lng" width="80" height="24" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">malgra&#365;</td>
+                  <td>m a g</td>
+                  <td><div align="center"><img src="images/bf0364-mag.gif" alt="mag" width="85" height="22" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">metodo</td>
+                  <td>m e t</td>
+                  <td><div align="center"><img src="images/bf0365-met.gif" alt="met" width="58" height="25" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">mi</td>
+                  <td>m</td>
+                  <td><div align="center"><img src="images/bf0021-m.gif" alt="m" width="66" height="21" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">mil</td>
+                  <td>m [reversed e]</td>
+                  <td><div align="center"><img src="images/bf0366-me.gif" alt="me" width="48" height="10" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">morga&#365;</td>
+                  <td>m o g</td>
+                  <td><div align="center"><img src="images/bf0367-mog.gif" alt="mog" width="94" height="22" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">necese, -as</td>
+                  <td>n e ss</td>
+                  <td><div align="center"><img src="images/bf0132-ness.gif" alt="ness" width="28" height="20" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">neniam</td>
+                  <td>n a m</td>
+                  <td><div align="center"><img src="images/bf0368-nam.gif" alt="nam" width="77" height="25" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">nova</td>
+                  <td>n v</td>
+                  <td><div align="center"><img src="images/bf0014-nv.gif" alt="nv" width="48" height="41" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">numero</td>
+                  <td>n u m</td>
+                  <td><div align="center"><img src="images/bf0168-num.gif" alt="num" width="61" height="19" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">objekto</td>
+                  <td>o b</td>
+                  <td><div align="center"><img src="images/bf0238-ob.gif" alt="ob" width="32" height="44" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">ofico</td>
+                  <td>o s</td>
+                  <td><div align="center"><img src="images/bf0151-os.gif" alt="os" width="20" height="19" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">ofta</td>
+                  <td>o f</td>
+                  <td><div align="center"><img src="images/bf0369-of.gif" alt="of" width="25" height="30" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">ol</td>
+                  <td>o (on its side)</td>
+                  <td><div align="center"><img src="images/bf0051-o.gif" alt="o" width="19" height="17" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">opinio, -as</td>
+                  <td>o p n</td>
+                  <td><div align="center"><img src="images/bf0133-opn.gif" alt="opn" width="32" height="32" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">oportuna</td>
+                  <td>o p r</td>
+                  <td><div align="center"><img src="images/bf0239-opr.gif" alt="opr" width="28" height="28" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">originala</td>
+                  <td>o r e g</td>
+                  <td><div align="center"><img src="images/bf0370-oreg.gif" alt="oreg" width="88" height="28" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">parolas</td>
+                  <td>p r l</td>
+                  <td><div align="center"><img src="images/bf0371-prl.gif" alt="prl" width="86" height="40" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">parto</td>
+                  <td>p t</td>
+                  <td><div align="center"><img src="images/bf0077-pt.gif" alt="pt" width="24" height="26" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">pensas</td>
+                  <td>p n s</td>
+                  <td><div align="center"><img src="images/bf0372-pns.gif" alt="pns" width="23" height="33" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">per, principo</td>
+                  <td>p r</td>
+                  <td><div align="center"><img src="images/bf0098-pr.gif" alt="pr" width="28" height="25" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">persono</td>
+                  <td>p r [right s]</td>
+                  <td><div align="center"><img src="images/bf0258-prs.gif" alt="prs" width="29" height="32" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">plej</td>
+                  <td>p l e</td>
+                  <td><div align="center"><img src="images/bf0373-ple.gif" alt="ple" width="65" height="32" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">pli</td>
+                  <td>p l</td>
+                  <td><div align="center"><img src="images/bf0240-pl.gif" alt="pl" width="60" height="25" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">popolo</td>
+                  <td>p o p</td>
+                  <td><div align="center"><img src="images/bf0374-pop.gif" alt="pop" width="31" height="44" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">por</td>
+                  <td>o</td>
+                  <td><div align="center"><img src="images/bf0040-o.gif" alt="o" width="23" height="18" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">post, povas</td>
+                  <td>p</td>
+                  <td><div align="center"><img src="images/bf0017-p.gif" alt="p" width="24" height="28" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">praktiko</td>
+                  <td>p r k t</td>
+                  <td><div align="center"><img src="images/bf0375-prkt.gif" alt="prkt" width="62" height="32" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">preska&#365;</td>
+                  <td>s k</td>
+                  <td><div align="center"><img src="images/bf0142-sk.gif" alt="sk" width="35" height="19" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">publika</td>
+                  <td>p b</td>
+                  <td><div align="center"><img src="images/bf0078-pb.gif" alt="pb" width="36" height="56" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">pura</td>
+                  <td>p u</td>
+                  <td><div align="center"><img src="images/bf0376-pu.gif" alt="pu" width="25" height="30" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">rajto</td>
+                  <td>r i</td>
+                  <td><div align="center"><img src="images/bf0223-ri.gif" alt="ri" width="36" height="23" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">respondo, -as</td>
+                  <td>r [left s]</td>
+                  <td><div align="center"><img src="images/bf0377-rs.gif" alt="rs" width="35" height="19" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">ricevas</td>
+                  <td>r [left s] e</td>
+                  <td><div align="center"><img src="images/bf0113-rse.gif" alt="rse" width="39" height="21" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">rigardo, -as</td>
+                  <td>r e</td>
+                  <td><div align="center"><img src="images/bf0136-re.gif" alt="re" width="35" height="16" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">rimarko, -as</td>
+                  <td>r m</td>
+                  <td><div align="center"><img src="images/bf0187-rm.gif" alt="rm" width="73" height="18" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">scias</td>
+                  <td>[right s] a [right s]</td>
+                  <td><div align="center"><img src="images/bf0378-sas.gif" alt="sas" width="28" height="24" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">se, si</td>
+                  <td>[right s]</td>
+                  <td><div align="center"><img src="images/bf0038-s.gif" alt="s" width="18" height="19" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">semajno</td>
+                  <td>[right s] e m</td>
+                  <td><div align="center"><img src="images/bf0379-sem.gif" alt="sem" width="46" height="14" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">sen</td>
+                  <td>[right s] n</td>
+                  <td><div align="center"><img src="images/bf0099-sn.gif" alt="sn" width="31" height="13" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">signifo, -as</td>
+                  <td>[right s] g</td>
+                  <td><div align="center"><img src="images/bf0380-sg.gif" alt="sg" width="58" height="16" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">Sinjorino</td>
+                  <td>[right s] e n</td>
+                  <td><div align="center"><img src="images/bf0154-sen.gif" alt="sen" width="35" height="19" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">Sinjoro</td>
+                  <td>[left s]</td>
+                  <td><div align="center"><img src="images/bf0381-s.gif" alt="s" width="23" height="23" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">sistemo</td>
+                  <td>ss (left-right)</td>
+                  <td><div align="center"><img src="images/bf0079-ss.gif" alt="ss" width="18" height="18" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">skribas</td>
+                  <td>[right s] k r</td>
+                  <td><div align="center"><img src="images/bf0382-skr.gif" alt="skr" width="52" height="17" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">societo</td>
+                  <td>ss (right-left)</td>
+                  <td><div align="center"><img src="images/bf0392-ss.gif" alt="ss" width="19" height="28" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">spirito</td>
+                  <td>[left s] p r</td>
+                  <td><div align="center"><img src="images/bf0298-spr.gif" alt="spr" width="30" height="32" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">stato</td>
+                  <td>[right s] t</td>
+                  <td><div align="center"><img src="images/bf0117-st.gif" alt="st" width="31" height="25" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">stelo, stilo</td>
+                  <td>[right s] t [reversed e]</td>
+                  <td><div align="center"><img src="images/bf0100-ste.gif" alt="ste" width="21" height="25" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">strato</td>
+                  <td>[right s] t r</td>
+                  <td><div align="center"><img src="images/bf0208-str.gif" alt="str" width="46" height="24" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">sub</td>
+                  <td>u (over the line)</td>
+                  <td><div align="center"><img src="images/bf0084-u.gif" alt="u" width="42" height="33" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">subita</td>
+                  <td>[left s] b t</td>
+                  <td><div align="center"><img src="images/bf0383-sbt.gif" alt="sbt" width="39" height="44" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">sufi&#265;a</td>
+                  <td>[right s] uf</td>
+                  <td><div align="center"><img src="images/bf0317-suf.gif" alt="suf" width="31" height="37" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">suno</td>
+                  <td>[right s] n</td>
+                  <td><div align="center"><img src="images/bf0099-sn.gif" alt="sn" width="31" height="13" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">sur</td>
+                  <td>r</td>
+                  <td><div align="center"><img src="images/bf0022-r.gif" alt="r" width="34" height="21" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">&#349;an&#285;o</td>
+                  <td>ch</td>
+                  <td><div align="center"><img src="images/bf0006-ch.gif" alt="ch" width="18" height="29" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">&#349;ipo</td>
+                  <td>sh</td>
+                  <td><div align="center"><img src="images/bf0018-sh.gif" alt="sh" width="19" height="19" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">tago</td>
+                  <td>t a</td>
+                  <td><div align="center"><img src="images/bf0384-ta.gif" alt="ta" width="41" height="29" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">tempo, tiom</td>
+                  <td>tm</td>
+                  <td><div align="center"><img src="images/bf0063-tm.gif" alt="tm" width="64" height="38" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">tial</td>
+                  <td>t [reversed a]</td>
+                  <td><div align="center"><img src="images/bf0385-ta.gif" alt="ta" width="34" height="32" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">tiel</td>
+                  <td>t l</td>
+                  <td><div align="center"><img src="images/bf0386-tl.gif" alt="tl" width="65" height="21" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">tiu</td>
+                  <td>t</td>
+                  <td><div align="center"><img src="images/bf0023-t.gif" alt="t" width="24" height="18" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">tiuj</td>
+                  <td>t [over th]</td>
+                  <td><div align="center"><img src="images/bf0387-tth.gif" alt="tth" width="37" height="31" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">tiun</td>
+                  <td>[over th]</td>
+                  <td><div align="center"><img src="images/bf0030-th.gif" alt="th" width="28" height="18" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">tiu &#265;i</td>
+                  <td>[over th] [right s]</td>
+                  <td><div align="center"><img src="images/bf0045-ths.gif" alt="ths" width="36" height="24" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">tiuj &#265;i</td>
+                  <td>[over th] e [right s]</td>
+                  <td><div align="center"><img src="images/bf0393-thes.gif" alt="thes" width="26" height="23" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">trans</td>
+                  <td>t (over the line)</td>
+                  <td><div align="center"><img src="images/bf0388-t.gif" alt="t" width="47" height="32" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">tre</td>
+                  <td>t r</td>
+                  <td><div align="center"><img src="images/bf0064-tr.gif" alt="tr" width="50" height="24" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">trovas</td>
+                  <td>t r v</td>
+                  <td><div align="center"><img src="images/bf0389-trv.gif" alt="trv" width="47" height="49" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">tuj</td>
+                  <td>t u</td>
+                  <td><div align="center"><img src="images/bf0046-tu.gif" alt="tu" width="31" height="24" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">unu</td>
+                  <td>u n</td>
+                  <td><div align="center"><img src="images/bf0318-un.gif" alt="un" width="28" height="13" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">vera</td>
+                  <td>v r</td>
+                  <td><div align="center"><img src="images/bf0390-vr.gif" alt="vr" width="32" height="46" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">verko</td>
+                  <td>r k</td>
+                  <td><div align="center"><img src="images/bf0085-rk.gif" alt="rk" width="50" height="16" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">volas</td>
+                  <td>v l</td>
+                  <td><div align="center"><img src="images/bf0156-vl.gif" alt="vl" width="46" height="42" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">vorto</td>
+                  <td>v t</td>
+                  <td><div align="center"><img src="images/bf0394-vt.gif" alt="vt" width="34" height="41" /></div></td>
+                </tr>
+                <tr> 
+                  <td height="60">zorgas</td>
+                  <td>s o g</td>
+                  <td><div align="center"><img src="images/bf0391-sog.gif" alt="sog" width="59" height="20" /></div></td>
+                </tr>
+              </table>
+              <p align="left">&nbsp; &nbsp; &nbsp;To find a word quickly, use 
+                the Find function (CTRL-F) of your browser.<br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Por trovi vorton rapide, uzu 
+                la Trovantan funkcion (CTRL-F) de via pa&#285;ulino.</em></p>
+            </div></td>
+        </tr>
+      </table></td>
+    <!-- InstanceEndEditable -->
+    <td width="182" valign="top" bgcolor="#CCCCCC" style="background-image: url(images/gpco3.gif); background-position: top center; background-repeat: no-repeat"><div> 
+        <div align="center"> 
+          <table width="100%" border="0" cellpadding="2" cellspacing="0" class="text">
+            <tr> 
+              <td valign="top">
+                  <!--#include file="nav2.html" -->
+                </td>
+            </tr>
+          </table><script type="text/javascript"><!--
+google_ad_client = "pub-7907577578319522";
+/* 120x240, created 7/7/10 */
+google_ad_slot = "9642202343";
+google_ad_width = 120;
+google_ad_height = 240;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+        </div>
+      </div></td>
+  </tr>
+  <tr bgcolor="#CC3333"> 
+    <td height="6" colspan="3" valign="top"><div align="center" style="color: #FFFFFF">Design 
+        Copyright &copy; 
+        <!--#config timefmt="%Y" -->
+        <!--#echo var="DATE_LOCAL" -->
+        Andrew Owen. All Rights Reserved.</div></td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

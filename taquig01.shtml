@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/main.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Prefacio - Taquigraf&iacute;a Gregg</title>
+<!-- InstanceEndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link href="main.css" rel="stylesheet" type="text/css" />
+<link href="gregg.ico" rel="shortcut icon" />
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="948" border="0" cellpadding="0" cellspacing="0" class="text">
+  <tr> 
+    <td colspan="2" bgcolor="#CCCCCC" style="height: 53px; background-image: url(images/title3.gif); background-position: bottom right; background-repeat: no-repeat"><p>&nbsp;</p></td>
+    <td width="182" bgcolor="#CCCCCC" style="background-image: url(images/gpco2.gif); background-position: top center; background-repeat: no-repeat"><div> 
+        <div align="center"></div>
+      </div></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" bgcolor="#CC3333" style="height: 10px; background-image: url(images/title2.gif); background-position: top right; background-repeat: no-repeat"> 
+      <div class="text" style="color: #FFFFFF">&nbsp;A Web Site dedicated to the 
+        perpetuation of Gregg&#8217;s Light-Line Phonography</div></td>
+    <td width="182" bgcolor="#CC3333"><div align="center" style="color: #FFFFFF"> 
+        - Anniversary Manual -</div></td>
+  </tr>
+  <tr> 
+    <td width="182" valign="top" bgcolor="#CCCCCC" class="unnamed1"><table width="186" border="0" cellpadding="2" cellspacing="2" class="text">
+        <tr> 
+          <td width="178"> <!--#include file="nav.html" --> </td>
+        </tr>
+      </table></td>
+    <!-- InstanceBeginEditable name="EditRegion3" -->
+    <td width="585" valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="2" cellspacing="2">
+        <tr> 
+          <td width="79%" colspan="2" class="text"><p align="center"><strong>Prefacio</strong></p>
+            <p align="center"><strong>Taquigraf&iacute;a Gregg</strong></p>
+            <p>&nbsp; &nbsp; &nbsp;La primera adaptaci&oacute;n de la Taquigraf&iacute;a 
+              de Gregg a la lengua espa&ntilde;ola, fue hecha por el se&ntilde;or 
+              Camilo E. Pani, el a&ntilde;o de 1904, y nosotros queremos reconocer 
+              nuestro agradecimiento para con &eacute;l por haber producido tan 
+              importante libro. La obra ha tenido una vasta circulaci&oacute;n 
+              en todos los pa&iacute;ses que hablan espa&ntilde;ol y ha ejercido 
+              influencia en la formaci&oacute;n de la carrera taquigr&aacute;fica 
+              de miles de estudiantes.<br />
+              &nbsp; &nbsp; &nbsp;Debido al extenso uso del libro, muchas sugestiones 
+              sobre et mejoramiento del sistema nos han sido hechas por parte 
+              de profesores y expertos taqu&iacute;grafos; sugestiones que nosotros 
+              hemos probado y ensayado, y aqu&eacute;llas que demuestran ser de 
+              importancia han sido incorporadas en la presente edici&oacute;n. 
+              Creemos que la Taquigraf&iacute;a de Gregg tiene mayores ventajas 
+              que la de Gregg-Pani, no solo por su arreglo sino por el contenido 
+              y porque se acerca mas a la edici&oacute;n revisada de la Taquigraf&iacute;a 
+              Inglesa de Gregg. En las escuetas donde las versiones inglesas y 
+              espa&ntilde;olas del sistema son ensenadas, par ejemplo en las que 
+              el Gobierno de los Estados Unidos tiene en Puerto Rico, este nuevo 
+              arreglo probar&aacute; una verdadera conveniencia.<br />
+              &nbsp; &nbsp; &nbsp;Grato es para la firma de &#8220;Gregg Publishing 
+              Company&#8221; dar las gracias a los muchos profesares y escritores 
+              que han con-tribuido con sus valiosos datos a la formaci&oacute;n 
+              de la presente obra.</p>
+            <p align="right">&#8212;THE GREGG PUBLISHING COMPANY.<br />
+            </p></td>
+        </tr>
+      </table></td>
+    <!-- InstanceEndEditable -->
+    <td width="182" valign="top" bgcolor="#CCCCCC" style="background-image: url(images/gpco3.gif); background-position: top center; background-repeat: no-repeat"><div> 
+        <div align="center"> 
+          <table width="100%" border="0" cellpadding="2" cellspacing="0" class="text">
+            <tr> 
+              <td valign="top">
+                  <!--#include file="nav2.html" -->
+                </td>
+            </tr>
+          </table><script type="text/javascript"><!--
+google_ad_client = "pub-7907577578319522";
+/* 120x240, created 7/7/10 */
+google_ad_slot = "9642202343";
+google_ad_width = 120;
+google_ad_height = 240;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+        </div>
+      </div></td>
+  </tr>
+  <tr bgcolor="#CC3333"> 
+    <td height="6" colspan="3" valign="top"><div align="center" style="color: #FFFFFF">Design 
+        Copyright &copy; 
+        <!--#config timefmt="%Y" -->
+        <!--#echo var="DATE_LOCAL" -->
+        Andrew Owen. All Rights Reserved.</div></td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>
